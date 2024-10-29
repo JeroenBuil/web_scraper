@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+comm==0.1.4
+ipython==8.16.1
+ipywidgets==8.0.7
+Requests==2.31.0
+numpy==1.24.2
+pandas==2.0.3
+setuptools==65.5.0
+lxml==4.9.3
+openpyxl==3.1.2
